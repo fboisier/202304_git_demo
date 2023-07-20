@@ -1,0 +1,1 @@
+print("todos los nombres del ejercicio")
