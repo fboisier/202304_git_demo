@@ -1,1 +1,1 @@
-print("todos los nombres del ejercicio")
+print("todos los nombres del ejercicio 1")
