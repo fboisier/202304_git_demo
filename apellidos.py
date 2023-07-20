@@ -1,0 +1,1 @@
+print("los apellidos de todo el colegio")
